@@ -1,4 +1,6 @@
- Website Performance & Traffic Analysis
+ Websi[Uploading 2222111.webm…]()
+![222223](https://github.com/user-attachments/assets/2a0605c2-eafa-4630-9846-ddb89bfcf064)
+te Performance & Traffic Analysis
  Overview
 This project aims to analyze website traffic data to identify user behavior trends, performance bottlenecks, and opportunities for improving user experience and marketing effectiveness.
 
